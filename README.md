@@ -14,26 +14,40 @@ The time taken to reach roughly equilibrium again. Perhaps one can realise a lot
 (AI + NLP to watch interactions between the health professionals & patients to save time diagnosing and do not waste time or health professionals. )
 
 Program which watches for tell tale signs of imminent failure from previous data. This will alert wearers to possible dangerous signs.
+
 (All vitals in general, how would you get your breathing rate painted? Hb is related somehow? Through inference a lot of the vitals can be gathered.)
 
 Signature of the viscosity and then build a relationship from the viscosity of the blood to hydration levels. Signatures can be measured through the pulse oximetry. The wave speed is attenuated when more viscous.***
 
 (If you work more then get paid more related to the measurement of energy expenditure only compare within the same field of work/workplace.)
-Applications-
 Levels of hormones, chemicals,  within the blood can be detected via the means of IR if specially tuned frequencies re utilised.*
+
 “You need to work out and vent that stress.” - Health related alerts.
+
 With health data act on certain signatures of negative emotions. 
+
 Sense the blood sugar level through IR. 
+
 Baseline drill, where the app detects when you are back to the vitals that you started off with(or some custom level)
+
 Which eating cycle is resonant with yourself*, can be detected through the chemicals present in the system. Perhaps can use diabetic technology to measure blood sugar level. 
+
 Blood Oxygenation concentration vs your personal record to see if it’s just pain management or physical being that needs developing. 
+
 Play mood related code, for example, anger will play soothing music. Or funny cat videos. Hmu. Signatures of all can be found.
+
 Condition in the health data that made the personal record, identifiers across all data of the telltale signs of the factors that allow the personal record. So they can be refined.
+
 (Possible to distract one out of negative/bad habits from its signatures. )
+
 Oxygen intake variance though the oxygen concentration in blood.
+
 Each chemical has an absorbance signature.******
+
 Melatonin concentration throughout the day. 
+
 Rejuvenate rate/bar on watch this can be utilised to work out whether you do have the energy/blood oxygen/blood sugar to push yourself or if you’re going easy on yourself. This is done by measuring these two factors & others via the utilisation of the IR/light & indexes from known factors/tuned to the user. 
+
 Execute a process when in a certain emotional state, customisable. 
 
 Red blood cells with more haemoglobin are more dense therefore will have a respective signature, in other words there is a correlation between the level of absorption & amount of haemoglobin on average per red blood cell.
